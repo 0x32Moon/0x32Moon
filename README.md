@@ -7,5 +7,5 @@ I'm back
 ```
 
 - [✈️ Telegram](https://t.me/zentoh)
-- [💎 Shop](https://nftservices.sellix.io)
+- [💎 Shop](https://tec.sellix.io)
 - [👤 Group](https://t.me/cryptodrainers)
