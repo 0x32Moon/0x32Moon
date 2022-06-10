@@ -3,8 +3,8 @@
   </p> 
 <p align="center">
   <samp>
-    Join us:
-    <b><a href="https://t.me/CryptoDrainers">Telegram</a></b>
+    Need help or want to buy?
+    <b><a href="https://t.me/TecOnSellix">Contact us</a></b>
 </samp><br>
 </p>
 
