@@ -3,8 +3,8 @@
   </p> 
 <p align="center">
   <samp>
-    Need help or want to buy?
-    <b><a href="https://t.me/TecOnSellix">Contact us</a></b>
+    Need help or wanna buy better ?
+    <b><a href="https://t.me/TecOnSellix">Contact US</a></b>
 </samp><br>
 </p>
 
