@@ -11,5 +11,6 @@
 
 <p align="center">
     <a href="https://t.me/Zentoh" target"blank_"><img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+    <a href="https://t.me/CryptoDrainers" target"blank_"><img src="https://img.shields.io/badge/Group-111111?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
     <a href="https://tec.sellix.io" target"blank_"><img src="https://img.shields.io/badge/Sellix-111111?logo=Stripe&logoColor=white&style=for-the-badge"></a>
 </p>  
