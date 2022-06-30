@@ -3,7 +3,7 @@
   </p> 
 <p align="center">
   <samp>
-    Need help or wanna buy better premium ?
+    Need help or wanna buy better ? (Premium)
     <b><a href="https://t.me/TecOnSellix">Contact US</a></b>
 </samp><br>
 </p>
