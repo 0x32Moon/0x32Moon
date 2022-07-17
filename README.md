@@ -16,5 +16,5 @@
 </p>  
 
   <samp>
-    Please always check our url, beware of impostors
+    Please always check our url, beware of impostors (Github @0x32Moon) (Telegram Group t.me/CryptoDrainers)
   </samp><br>
