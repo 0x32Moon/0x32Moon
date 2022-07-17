@@ -15,7 +15,6 @@
     <a href="https://tec.sellix.io" target"blank_"><img src="https://img.shields.io/badge/Sellix-111111?logo=Stripe&logoColor=white&style=for-the-badge"></a>
 </p>  
 
-p align="center">
   <samp>
     Please always check our url, beware of impostors
-    </samp><br>
+  </samp><br>
